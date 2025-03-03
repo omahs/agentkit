@@ -4,7 +4,7 @@
 
 ### Added
 
-- Added wallet persistance to all templates (#484)
+- Added wallet persistence to all templates (#484)
 
 ### Fixed
 
